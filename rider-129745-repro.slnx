@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="mtp-v1/mtp-v1.csproj" />
+  <Project Path="mtp-v2/mtp-v2.csproj" />
+</Solution>
